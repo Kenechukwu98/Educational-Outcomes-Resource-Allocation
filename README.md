@@ -6,5 +6,5 @@ This report analyses a simulated dataset of 100 schools across five geographic r
 
 
 ## Educational Outcome Queries (SQL)
-- <a href="
+- <a href="">Educational Outcomes SQL</a>
 
