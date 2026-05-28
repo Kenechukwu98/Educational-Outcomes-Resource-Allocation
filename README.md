@@ -6,5 +6,9 @@ This report analyses a simulated dataset of 100 schools across five geographic r
 
 
 ## Educational Outcome Queries (SQL)
-- <a href="">Educational Outcomes SQL</a>
+- <a href="https://github.com/Kenechukwu98/Educational-Outcomes-Resource-Allocation/blob/main/educational_outcomes_queries.sql">Educational Outcomes SQL</a>
+
+
+## Educational Outcomes Python Analysis 
+- <a href="">Educational Outcomes Analysis</a>
 
