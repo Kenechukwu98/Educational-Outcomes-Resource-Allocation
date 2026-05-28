@@ -10,5 +10,8 @@ This report analyses a simulated dataset of 100 schools across five geographic r
 
 
 ## Educational Outcomes Python Analysis 
-- <a href="">Educational Outcomes Analysis</a>
+- <a href="https://github.com/Kenechukwu98/Educational-Outcomes-Resource-Allocation/blob/main/educational_analysis.py">Educational Outcomes Analysis</a>
+
+## Educational Outcomes Insights
+- <a href="">Educational Outcomes Insights</a>
 
